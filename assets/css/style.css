@@ -1,0 +1,37 @@
+.acc {
+  width: 200px;
+  height: 85px;
+  border: 2px solid rgb(123, 132, 141);
+  border-radius: 10px;
+  padding: 10px;
+  background-color: rgb(161, 158, 158);
+  margin: auto;
+}
+.output {
+  width: 97%;
+  height: 40px;
+  border: 2px solid rgb(123, 132, 141);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+  color: rgb(33, 86, 133);
+}
+
+.bttn{
+  width: 100%;
+  height: 30px;
+  padding-top: 8px;
+}
+
+button {
+  width: 20%;
+  height: 30px;
+  font-size: 20px;
+  margin-right: 7px;
+  border: 2px solid rgb(123, 132, 141);
+  border-radius: 8px;
+  background-color: rgb(150, 163, 173);
+  color: white;
+}
